@@ -1,24 +1,24 @@
 # Screenshots
 
-## Main Engine
+## Clean Grid Workspace
 
 ![Preview 1](./screenshots/preview1.png)
 
 ---
 
-## Pathfinding Visualization
+## Terrain Editing & Obstacle Layout
 
 ![Preview 2](./screenshots/preview2.png)
 
 ---
 
-## Graph Mode
+## Dynamic Pathfinding Simulation
 
 ![Preview 3](./screenshots/preview3.png)
 
 ---
 
-## Comparison / Maze Mode
+## Optimal Path Traversal
 
 ![Preview 4](./screenshots/preview4.png)
 
