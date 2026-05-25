@@ -1,27 +1,3 @@
-# Screenshots
-
-## Clean Grid Workspace
-
-![Preview 1](./screenshots/preview1.png)
-
----
-
-## Terrain Editing & Obstacle Layout
-
-![Preview 2](./screenshots/preview2.png)
-
----
-
-## Dynamic Pathfinding Simulation
-
-![Preview 3](./screenshots/preview3.png)
-
----
-
-## Optimal Path Traversal
-
-![Preview 4](./screenshots/preview4.png)
-
 # Shortest Pathfinder Engine and Graph simulation engine
 
 A futuristic, real-time **shortest-path and graph simulation engine** written in modern
@@ -72,6 +48,29 @@ RoninPathfinder/
 ├── CMakeLists.txt
 └── README.md
 ```
+# Screenshots
+
+## Clean Grid Workspace
+
+![Preview 1](./screenshots/preview1.png)
+
+---
+
+## Terrain Editing & Obstacle Layout
+
+![Preview 2](./screenshots/preview2.png)
+
+---
+
+## Dynamic Pathfinding Simulation
+
+![Preview 3](./screenshots/preview3.png)
+
+---
+
+## Optimal Path Traversal
+
+![Preview 4](./screenshots/preview4.png)
 
 ## Build (Windows / PowerShell / VS Code)
 
