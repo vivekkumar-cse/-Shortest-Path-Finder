@@ -1,3 +1,27 @@
+# Screenshots
+
+## Main Engine
+
+![Preview 1](./screenshots/preview1.png)
+
+---
+
+## Pathfinding Visualization
+
+![Preview 2](./screenshots/preview2.png)
+
+---
+
+## Graph Mode
+
+![Preview 3](./screenshots/preview3.png)
+
+---
+
+## Comparison / Maze Mode
+
+![Preview 4](./screenshots/preview4.png)
+
 # Shortest Pathfinder Engine and Graph simulation engine
 
 A futuristic, real-time **shortest-path and graph simulation engine** written in modern
