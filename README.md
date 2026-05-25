@@ -147,3 +147,7 @@ replay, themes, save/load) is exposed through the ImGui side panel.
   rest of the engine UI-agnostic and unit-testable.
 
 Have fun. 侍
+
+## License
+
+This project is for educational and portfolio purposes.
